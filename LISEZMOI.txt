@@ -1,0 +1,11 @@
+DESCRIPTION
+Ceci est une calculatrice graphique spécialisée dans le traçage de fonctions de type ax²+bx+c.
+
+CONTENU
+Le fichier "lib.py" contient les fonctions utilisées tandis que le fichier "main.py" est celui contenant les instructions et qui doit être 
+exécuté.
+
+NOTICE
+- Exécuter le fichier "main.py" dans votre terminal
+- Entrer le nombre de courbes à tracer
+- Entrer les coefficients et le tour est joué
